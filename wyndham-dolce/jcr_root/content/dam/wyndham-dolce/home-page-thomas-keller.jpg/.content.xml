@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        dam:lastInvalidateCache="{Date}2015-07-31T13:09:14.526-04:00"
+        dam:s7damAnchorX="{Long}600"
+        dam:s7damAnchorY="{Long}331"
+        dam:s7damHeight="{Long}662"
+        dam:s7damImageCopyPath="C:\\Users\\Viren\\AppData\\Local\\Temp\\scene74018564089794770619.tmp"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}1200"
+        jcr:lastModified="{Date}2015-07-31T13:09:36.619-04:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2015-07-31T13:09:09.956-04:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}96"
+            dam:Physicalheightininches="{Decimal}6.895833492279053"
+            dam:Physicalwidthindpi="{Long}96"
+            dam:Physicalwidthininches="{Decimal}12.5"
+            dam:Progressive="no"
+            dam:sha1="3b2323ea5ec6a01e7d63007f7e38b5ce8f9e7cc1"
+            dam:size="{Long}704858"
+            dam:writebackEnable="False"
+            dc:format="image/jpeg"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}662"
+            tiff:ImageWidth="{Long}1200"
+            writebackEnable="{Boolean}true"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:description="Wyndham Dolce Basic Page Template"
+    jcr:primaryType="cq:Template"
+    jcr:title="Dolce Page"
+    allowedPaths="[/content/wyndham-dolce,/content/wyndham-dolce/.+]"
+    ranking="{Long}100">
+    <jcr:content
+        jcr:primaryType="cq:PageContent"
+        sling:resourceType="wyndham-dolce/components/structure/basepagelayout"/>
+</jcr:root>

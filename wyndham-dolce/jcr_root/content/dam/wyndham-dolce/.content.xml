@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        jcr:primaryType="nt:unstructured"
+        jcr:title="wyndham-dolce">
+        <folderThumbnail/>
+    </jcr:content>
+    <asset.jpg/>
+    <mansion.jpg/>
+    <outdoor-massage.jpg/>
+    <silverado_logo.svg/>
+    <silverado_logo_dolce_destination_4c.png/>
+    <silverado-footer-1200x662.jpg/>
+    <silverado-weddings_f.jpg/>
+    <adlib_oysters_photo_by_meg_smith.jpg/>
+    <dolce-white-v3.png/>
+    <favicon-2-_16x16.png/>
+    <home-page-thomas-keller.jpg/>
+    <istock_000020417484medium.jpg/>
+    <kr7_2100.jpg/>
+    <gallery-nav.png/>
+    <icon-btn-rfp.png/>
+    <gray-semi-transparent.png/>
+    <light-gray-semi-transparent.png/>
+    <pixel.png/>
+    <sprites-scrollarrow.png/>
+    <sprites-scrollarrow_2x.png/>
+    <stepper-bg.png/>
+    <alert-close.png/>
+    <_x0034_832534.gif/>
+    <beacon.gif/>
+    <close-booking-widget.png/>
+    <cycle-pager-bg.png/>
+    <cycle-pager-bg-active.png/>
+    <dark-gray-semi-transparent.png/>
+    <formelements.png/>
+    <formelements-select.png/>
+</jcr:root>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[mix:lockable,rep:AccessControllable,sling:Redirect]"
+    jcr:primaryType="sling:OrderedFolder"
+    sling:resourceType="sling:redirect"
+    sling:target="/geohome">
+    <dam/>
+    <usergenerated/>
+    <rep:policy/>
+    <launches/>
+    <campaigns/>
+    <community-components/>
+    <catalogs/>
+    <geometrixx/>
+    <geometrixx_mobile/>
+    <geometrixx-outdoors/>
+    <geometrixx-outdoors-mobile/>
+    <communities/>
+    <phonegap/>
+    <geometrixx-media/>
+    <publications/>
+    <geometrixx-gov/>
+    <forms/>
+    <projects/>
+    <myportal/>
+    <customer/>
+    <BLAHBLAHBLAH/>
+    <dolce-test1/>
+    <dolce-test2/>
+    <dolce-test3/>
+    <dolce-test4/>
+    <dolce-test-9/>
+    <dolce-test-11/>
+    <salesforceapitest/>
+    <aemsampletest/>
+    <dolce-test-21/>
+    <dolce-test-22/>
+    <todo/>
+    <repl/>
+    <dolce-test-sightly-1/>
+    <wyndham-dolce/>
+</jcr:root>

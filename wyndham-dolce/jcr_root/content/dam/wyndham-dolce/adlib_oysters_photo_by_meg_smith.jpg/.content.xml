@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        dam:lastInvalidateCache="{Date}2015-07-31T13:09:01.156-04:00"
+        dam:s7damAnchorX="{Long}886"
+        dam:s7damAnchorY="{Long}620"
+        dam:s7damHeight="{Long}1240"
+        dam:s7damImageCopyPath="C:\\Users\\Viren\\AppData\\Local\\Temp\\scene74085996226317045139.tmp"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}1772"
+        jcr:lastModified="{Date}2015-07-31T13:09:27.524-04:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            crs:AlreadyApplied="True"
+            dam:Bitsperpixel="{Long}24"
+            dam:ColorSpace="{Long}1"
+            dam:ExifOffset="{Long}232"
+            dam:extracted="{Date}2015-07-31T13:08:51.636-04:00"
+            dam:Fileformat="JPEG"
+            dam:JpgFromRawLength="{Long}7471"
+            dam:JpgFromRawStart="{Long}382"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}17.22222137451172"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}24.61111068725586"
+            dam:Progressive="no"
+            dam:sha1="d9a92fa3548f90e92dbef0ddb5614d52f9c4021b"
+            dam:size="{Long}1545824"
+            dam:writebackEnable="False"
+            dc:format="image/jpeg"
+            exif:ExifImageLength="{Long}1240"
+            exif:ExifImageWidth="{Long}1772"
+            exif:PixelXDimension="{Long}72"
+            exif:PixelYDimension="{Long}72"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            photoshop:ICCProfile="sRGB IEC61966-2.1"
+            photoshop:LegacyIPTCDigest="9069D9E0F5EAAE81F112A973A0242858"
+            tiff:BitsPerSample="\[S@1db77b6d"
+            tiff:Compression="{Long}6"
+            tiff:ImageLength="{Long}1240"
+            tiff:ImageWidth="{Long}1772"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="72"
+            tiff:YResolution="72"
+            xmp:CreateDate="{Date}2014-07-17T12:08:38.000-07:00"
+            xmp:CreatorTool="Adobe Photoshop CS5.1 Macintosh"
+            xmp:MetadataDate="{Date}2015-01-08T17:14:46.000-08:00"
+            xmp:ModifyDate="{Date}2015-01-08T17:14:46.000-05:00"
+            xmpMM:DocumentID="xmp.did:08EDC0C7E220681197A5E13A5EC0444A"
+            xmpMM:InstanceID="xmp.iid:19512E450F216811B154A7914E438703"
+            xmpMM:OriginalDocumentID="xmp.did:08EDC0C7E220681197A5E13A5EC0444A"
+            xmpRights:Marked="{Boolean}false"
+            writebackEnable="{Boolean}true">
+            <photoshop:DocumentAncestors
+                jcr:primaryType="nt:unstructured"
+                _x0031_="xmp.did:08EDC0C7E220681197A5E13A5EC0444A"
+                _x0032_="xmp.did:0FF1ED203F2068119457D80879689709"
+                _x0033_="xmp.did:11F1ED203F2068119457D80879689709"
+                _x0034_="xmp.did:12910459-1e74-4ffe-83fe-7452177d1cf8"
+                _x0035_="xmp.did:7016baaf-2723-4764-a66f-58dd478cf6f8"
+                _x0036_="xmp.did:93ECB5841D206811A61380BD113405CD"
+                _x0037_="xmp.did:9A74A1C6282068119457D80879689709"
+                _x0038_="xmp.did:c8b586cb-87c3-43b1-98f6-b35cf25def89"
+                xmpArraySize="{Long}8"
+                xmpArrayType="rdf:Bag"
+                xmpNodeType="xmpArray"/>
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}26"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="created"
+                    stEvt:instanceID="xmp.iid:08EDC0C7E220681197A5E13A5EC0444A"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-07-17T12:08:38.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:DB605060F320681197A5E13A5EC0444A"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-07-17T14:36:20.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0033_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:F5A00B0721206811A61380BD113405CD"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-07-26T18:06:32.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0034_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:F6A00B0721206811A61380BD113405CD"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-07-26T18:07:23.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0035_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:F9A00B0721206811A61380BD113405CD"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-07-26T18:07:49.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0036_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:FAA00B0721206811A61380BD113405CD"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-07-26T18:12:18.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0037_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="converted"
+                    stEvt:parameters="from application/vnd.adobe.photoshop to image/jpeg"
+                    xmpNodeType="xmpStruct"/>
+                <_x0038_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="derived"
+                    stEvt:parameters="converted from application/vnd.adobe.photoshop to image/jpeg"
+                    xmpNodeType="xmpStruct"/>
+                <_x0039_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:FBA00B0721206811A61380BD113405CD"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-07-26T18:12:18.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0031_0
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:0780117407206811AFFDFF34900852C5"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-10-10T18:34:34.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0031_1
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:0880117407206811AFFDFF34900852C5"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-10-10T18:34:34.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0031_2
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:D1317C354A206811AFFDFF34900852C5"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-10-10T20:31:55.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0031_3
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:D2317C354A206811AFFDFF34900852C5"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-10-10T20:31:55.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0031_4
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:D3317C354A206811AFFDFF34900852C5"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-10-10T20:34:08.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0031_5
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:D4317C354A206811AFFDFF34900852C5"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-10-10T20:34:08.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0031_6
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:D5317C354A206811AFFDFF34900852C5"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-10-10T20:34:26.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0031_7
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:BB969DDC54206811AFFDFF34900852C5"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-10-10T22:03:01.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0031_8
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:BC969DDC54206811AFFDFF34900852C5"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2014-10-10T22:03:01.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0031_9
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:12512E450F216811B154A7914E438703"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2015-01-08T17:10:51.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_0
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:13512E450F216811B154A7914E438703"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2015-01-08T17:10:51.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_1
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:14512E450F216811B154A7914E438703"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2015-01-08T17:11:27.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_2
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:15512E450F216811B154A7914E438703"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2015-01-08T17:11:27.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_3
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:16512E450F216811B154A7914E438703"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2015-01-08T17:12:24.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_4
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:17512E450F216811B154A7914E438703"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2015-01-08T17:12:37.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_5
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:18512E450F216811B154A7914E438703"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2015-01-08T17:12:37.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_6
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:19512E450F216811B154A7914E438703"
+                    stEvt:softwareAgent="Adobe Photoshop CS5.1 Macintosh"
+                    stEvt:when="{Date}2015-01-08T17:14:46.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:08EDC0C7E220681197A5E13A5EC0444A"
+                stRef:instanceID="xmp.iid:FAA00B0721206811A61380BD113405CD"
+                stRef:originalDocumentID="xmp.did:08EDC0C7E220681197A5E13A5EC0444A"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

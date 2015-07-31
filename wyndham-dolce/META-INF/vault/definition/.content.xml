@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:vlt="http://www.day.com/jcr/vault/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2015-07-31T13:39:39.640-04:00"
+    jcr:createdBy="admin"
+    jcr:description=""
+    jcr:lastModified="{Date}2015-07-31T13:39:39.640-04:00"
+    jcr:lastModifiedBy="admin"
+    jcr:primaryType="vlt:PackageDefinition"
+    buildCount="4"
+    builtWith="Adobe Experience Manager-6.0.0.20140509"
+    group="my_packages"
+    lastUnwrapped="{Date}2015-07-31T13:39:39.640-04:00"
+    lastUnwrappedBy="admin"
+    lastWrapped="{Date}2015-07-31T13:39:39.640-04:00"
+    lastWrappedBy="admin"
+    name="wyndham-dolce"
+    version="">
+    <filter jcr:primaryType="nt:unstructured">
+        <f0
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/apps/wyndham-dolce"
+            rules="[]"/>
+        <f1
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/etc/designs/wyndham-dolce"
+            rules="[]"/>
+        <f2
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/content/wyndham-dolce"
+            rules="[]"/>
+        <f3
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/content/dam/wyndham-dolce"
+            rules="[]"/>
+    </filter>
+</jcr:root>
